@@ -1,1 +1,1 @@
-console.log("this is master");
+console.log("this is multiply function");
